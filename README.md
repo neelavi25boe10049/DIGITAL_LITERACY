@@ -40,7 +40,7 @@ To build a professional online presence and showcase skills, projects, and learn
 * Created a Google Form Quiz on Digital Literacy
 
 🔗 Google Form Link: https://forms.gle/zMzcNf6XiTTz529n9
-👉 
+🔗 HackerRank Link: https://www.hackerrank.com/certificates/43f4cd424a5d
 ## ✉️ Task 4 – Email Etiquette
 * Wrote two professional emails:
     * Assignment extension request
